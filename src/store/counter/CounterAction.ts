@@ -1,4 +1,4 @@
-import { INCREMENT_COUNTER, DECREMENT_COUNTER } from "./models/actions";
+import { INCREMENT_COUNTER, DECREMENT_COUNTER } from "./actions";
 
 // Actions will be 'dispatched'
 export const incrementCount = () => ({

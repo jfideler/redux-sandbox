@@ -1,4 +1,4 @@
-import { REVERSE_NAME } from "./models/actions";
+import { REVERSE_NAME } from "./actions";
 
 export const reverseName = () => ({
     type: REVERSE_NAME,
