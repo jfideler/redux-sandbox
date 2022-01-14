@@ -3,9 +3,9 @@ import { Action, Reducer } from "redux";
 import { ReverserActionTypes, REVERSE_NAME } from "./actions";
 
 const defaultState: Reverser ={
-    name: "Jeff F",
-    firstName: "Jeff",
-    lastName: "Fid"
+    name: "Jon Smith",
+    firstName: "Jon",
+    lastName: "Smith"
 }
 
 // handle actions that have been 'dispatched'

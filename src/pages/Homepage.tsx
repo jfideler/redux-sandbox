@@ -12,6 +12,8 @@ interface Props {
 
 export default class HomePage extends Component {
 
+    /** uncomment this next block to induce data-grid error */
+    
     // recipientColumns = [
     //     SelectColumn,
     //     { key: 'name', name: 'Name' },
