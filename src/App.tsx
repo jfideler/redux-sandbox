@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import HomePage from './components/Homepage';
+import HomePage from './pages/Homepage';
 
 // state/store stuff
 import { connect } from 'react-redux';
